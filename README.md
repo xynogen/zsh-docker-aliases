@@ -1,4 +1,3 @@
-# Forked from Akarzim
 # ZSH Docker Aliases
 
 Defines [Docker][1] aliases and functions.
@@ -219,7 +218,7 @@ zinit light xynogen/zsh-docker-aliases
 
 *The author of this module should be contacted via the [issue tracker][3].*
 
-- [François Vantomme](https://github.com/xynogen)
+- [François Vantomme](https://github.com/akarzim)
 
 [1]: https://www.docker.com/
 [2]: https://github.com/zplug/zplug
